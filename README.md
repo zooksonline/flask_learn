@@ -1,9 +1,9 @@
 # flask_learn
 <h2>สอนการใช้ flask</h2>
 
-download file
-cd flask_learn
-python app.py
+1. download file
+2. cd flask_learn
+3. python app.py
 
 <h2>requirement</h2>
 
