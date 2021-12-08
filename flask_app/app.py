@@ -1,7 +1,5 @@
-from flask import Flask,render_template,request,send_file,send_from_directory,jsonify
-import pickle
+from flask import Flask,render_template,request
 import joblib
-import numpy
 
 app = Flask(__name__, template_folder='templates')
 model = joblib.load('model.pkl')
