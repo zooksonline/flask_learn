@@ -5,7 +5,8 @@ download file
 cd flask_learn
 python app.py
 
-<h2>req</h2>
+<h2>requirement</h2>
+
 1. python3
 2. jupyter
 3. vscode
