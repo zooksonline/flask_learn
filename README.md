@@ -6,7 +6,6 @@ cd flask_learn
 python app.py
 
 <h2>req</h2>
-Program
 1. python3
 2. jupyter
 3. vscode
